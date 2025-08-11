@@ -6,7 +6,7 @@ This project demonstrates how to use **Decision Trees** and **Random Forests** t
 
 Learn how to build and evaluate **tree-based models** for **classification and regression** using the `heart.csv` dataset.
 
-## ⚙ Tools & Libraries
+##  Tools & Libraries
 
 - Python
 - Scikit-learn
